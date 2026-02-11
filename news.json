@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "timestamp": "202411181340",
+    "author": "ferdoran",
+    "discord_id": "1308064186517028894",
+    "title": "I have been very quite the recent months and _paused_ development on SilkRust. You probably read the reason in the chat somewhere: I became a father.",
+    "md": "posts/202411181340-i-have-been-very-quite-the-recent-months-and-paused-developm.md"
+  },
+  {
+    "timestamp": "202311042044",
+    "author": "ferdoran",
+    "discord_id": "1170463582513807361",
+    "title": "Hey @everyone, Bevy 0.12 has just been released and we can now finalize our next goals / milestones. 🥳",
+    "md": "posts/202311042044-hey-everyone-bevy-0-12-has-just-been-released-and-we-can-now.md"
+  }
+]
