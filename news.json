@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "202609082252",
+    "author": "ferdoran",
+    "discord_id": "1547016778092118096",
+    "title": "And of course feel free to report bugs or request improvements at <#1540479730401419284>",
+    "md": "posts/202609082252-and-of-course-feel-free-to-report-bugs-or-request-improvemen.md"
+  },
+  {
+    "timestamp": "202609082247",
+    "author": "ferdoran",
+    "discord_id": "1547015650298564659",
+    "title": "The last 2 weeks we have been working on cleaning up the repo and preparing for release. We still need to clean up stuff in order to open source it, but we can at least provide binary releases already.",
+    "md": "posts/202609082247-the-last-2-weeks-we-have-been-working-on-cleaning-up-the-rep.md"
+  },
+  {
     "timestamp": "202608252105",
     "author": "ferdoran",
     "discord_id": "1541916460396576858",
